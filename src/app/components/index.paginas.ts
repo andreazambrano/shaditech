@@ -15,3 +15,4 @@ export { ShadifooterComponent } from "./shadifooter/shadifooter.component";
 export { ShadimostwantedComponent } from "./shadimostwanted/shadimostwanted.component";
 export { ShadisliderComponent } from "./shadislider/shadislider.component";
 export { ShaditopComponent } from "./shaditop/shaditop.component";
+export { ShadishopComponent } from "./shadishop/shadishop.component";

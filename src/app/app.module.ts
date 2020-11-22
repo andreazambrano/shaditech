@@ -56,6 +56,11 @@ import { ShadibestsellerComponent } from './components/shadibestseller/shadibest
 import { ShadidiscountComponent } from './components/shadidiscount/shadidiscount.component';
 import { ShadifooterComponent } from './components/shadifooter/shadifooter.component';
 import { PrincipalComponent } from './components/principal/principal.component';
+import { ShopComponent } from './components/shop/shop.component';
+import { ModalComponent } from './components/modal/modal.component';
+import { ShadistaticComponent } from './components/shadistatic/shadistatic.component';
+import { ShadicartComponent } from './components/shadicart/shadicart.component';
+import { ShadishopComponent } from './components/shadishop/shadishop.component';
 
 @NgModule({
   declarations: [
@@ -77,6 +82,11 @@ import { PrincipalComponent } from './components/principal/principal.component';
     ShadidiscountComponent,
     ShadifooterComponent,
     PrincipalComponent,
+    ShopComponent,
+    ModalComponent,
+    ShadistaticComponent,
+    ShadicartComponent,
+    ShadishopComponent,
   ],
   imports: [
     BrowserModule,
